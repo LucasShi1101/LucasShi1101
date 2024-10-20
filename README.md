@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=loadingscc&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
 - 🔭 I’m currently working on **Tianjin**.
-- 🌱 I’m currently learning **Vue**.
+- 🌱 I’m currently learning **AIGC**.
 - 💬 Ask me about Python or Cpp technology.
 - ⚡ Fun fact: 
   - Write technical and life articles.
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=loadingscc&color=green)
-[![Github](https://img.shields.io/github/followers/loadingscc?label=Github&style=social)](https://github.com/loadingscc)
+[![Github](https://img.shields.io/github/followers/loadingscc?label=Github&style=social)](https://github.com/LucasShi1101)
 [![Gitee](https://img.shields.io/badge/-码云-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/orange_too_fat)
 [![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/weixin_50153843?spm=1000.2115.3001.5343)
 
