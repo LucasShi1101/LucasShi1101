@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 # Hi,I'm Lucas! 👋
 I am studing in The University of Sydney.
 
-<img src="https://github-readme-stats.vercel.app/api?username=loadingscc&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
-
 - 🔭 I’m currently studing on **Sydney**.
 - 🌱 I’m currently learning **AIGC**.
 - 💬 Ask me about Python or Cpp technology.
@@ -35,10 +33,3 @@ I am studing in The University of Sydney.
 [![Gitee](https://img.shields.io/badge/-码云-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/orange_too_fat)
 [![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/weixin_50153843?spm=1000.2115.3001.5343)
 
-## GitHub Infos
-<img src="https://github-profile-trophy.vercel.app/?username=loadingscc&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
-
-## Languages
-<a href="https://github.com/loadingscc">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loadingscc&theme=vue" />
-</a>
