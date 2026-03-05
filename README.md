@@ -8,3 +8,6 @@ My broader goal is to deepen our understanding of how generative models encode, 
 Ultimately, I hope to contribute to the development of AI systems that are more transparent, controllable, and trustworthy 🔍🤝. This includes not only improving interpretability and safety, but also enabling richer and more reliable creative and reasoning capabilities in next-generation generative models.
 
 Should you wish to contact me, you may send an email to my address: `cshi0459@uni.sydney.edu.au`.
+
+
+[]./profile-3d-contrib/profile-green-animate.svg
