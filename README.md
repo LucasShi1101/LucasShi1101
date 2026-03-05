@@ -10,4 +10,4 @@ Ultimately, I hope to contribute to the development of AI systems that are more 
 Should you wish to contact me, you may send an email to my address: `cshi0459@uni.sydney.edu.au`.
 
 
-[]./profile-3d-contrib/profile-green-animate.svg
+![](./profile-3d-contrib/profile-green-animate.svg)
